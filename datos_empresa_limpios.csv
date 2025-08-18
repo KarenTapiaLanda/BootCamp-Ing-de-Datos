@@ -1,0 +1,11 @@
+ID,Empleado,Edad_Años,Genero,Departamento,Salario_Mensual,Antigüedad,Año_Ingreso,Genero_Num
+1,Carlos,28.0,Masculino,Ventas,850000.0,3.0,2022,1
+2,Ana,24.0,Femenino,Finanzas,920000.0,2.0,2023,0
+3,José,30.0,Masculino,Recursos Humanos,891111.1111111111,5.0,2019,1
+4,Lucía,22.0,Femenino,Marketing,880000.0,3.888888888888889,2024,0
+5,Pedro,27.0,Masculino,Ventas,870000.0,4.0,2021,1
+6,María,26.0,Femenino,Finanzas,910000.0,3.0,2022,0
+7,Juan,29.0,Masculino,Recursos Humanos,890000.0,6.0,2018,1
+8,Laura,26.88888888888889,Femenino,Marketing,860000.0,2.0,2023,0
+9,Andrés,31.0,Masculino,Ventas,940000.0,7.0,2017,1
+10,Sofía,25.0,Masculino,Finanzas,900000.0,3.0,2022,1

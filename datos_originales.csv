@@ -1,0 +1,11 @@
+ID,Nombre,Edad,Peso,Altura,Goles,Posición,Equipo
+1,Carlos,28.0,75.0,1.8,12.0,Delantero,Real Madrid
+2,Ana,24.0,62.0,1.65,8.0,Mediocampista,Barcelona
+3,José,30.0,,1.78,15.0,Defensa,Sevilla
+4,Lucía,22.0,55.0,1.6,,Delantero,Valencia
+5,Pedro,27.0,90.0,1.85,3.0,Portero,Atlético Madrid
+6,María,26.0,58.0,1.68,20.0,Mediocampista,Real Sociedad
+7,Juan,29.0,110.0,1.75,1.0,Defensa,Betis
+8,Laura,,60.0,1.7,7.0,Delantero,Villarreal
+9,Andrés,31.0,70.0,1.82,25.0,Mediocampista,Granada
+10,Sofía,25.0,65.0,1.66,9.0,,Celta Vigo

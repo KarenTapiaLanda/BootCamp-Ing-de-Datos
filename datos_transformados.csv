@@ -1,0 +1,11 @@
+ID,Nombre,Edad_años,Peso_kg,Goles,Posición,Equipo,Rango_Edad,IMC,Rendimiento,Equipo_Corto,Altura_cm
+1,Carlos,28.0,75.0,12.0,Delantero,Real Madrid,Adulto,23.148148148148145,Medio,Real,180.0
+2,Ana,24.0,62.0,8.0,Mediocampista,Barcelona,Joven,22.77318640955005,Medio,Barcelona,165.0
+3,José,30.0,,15.0,Defensa,Sevilla,Adulto,,Alto,Sevilla,178.0
+4,Lucía,22.0,55.0,,Delantero,Valencia,Joven,21.484374999999996,Desconocido,Valencia,160.0
+5,Pedro,27.0,90.0,3.0,Portero,Atlético Madrid,Adulto,26.296566837107374,Bajo,Atlético,185.0
+6,María,26.0,58.0,20.0,Mediocampista,Real Sociedad,Adulto,20.549886621315196,Alto,Real,168.0
+7,Juan,29.0,110.0,1.0,Defensa,Betis,Adulto,35.91836734693877,Bajo,Betis,175.0
+8,Laura,,60.0,7.0,Delantero,Villarreal,,20.761245674740486,Bajo,Villarreal,170.0
+9,Andrés,31.0,70.0,25.0,Mediocampista,Granada,Veterano,21.132713440405748,Alto,Granada,182.0
+10,Sofía,25.0,65.0,9.0,Sin posición,Celta Vigo,Joven,23.588329220496444,Medio,Celta,166.0
